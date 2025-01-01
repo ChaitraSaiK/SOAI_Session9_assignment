@@ -1,5 +1,11 @@
 # ImageNet Classification with ResNet-50
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
+[![AWS](https://img.shields.io/badge/AWS-g6dn.8xlarge-FF9900?logo=amazon-aws)](https://aws.amazon.com/)
+[![Training Time](https://img.shields.io/badge/Training%20Time-6%20hours-green.svg)]()
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Deployed-yellow.svg)](https://huggingface.co/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This repository implements an ImageNet classification pipeline using a ResNet-50 model built from scratch with PyTorch. The project includes data preparation, training, evaluation, and utility scripts to streamline experimentation.
 
@@ -17,7 +23,7 @@ The ImageNet-1K dataset is a widely used benchmark in computer vision and deep l
 
     - Batch size: 256
 
-    Epochs: 3
+    - Epochs: 3
 
     - Training time per epoch: ~2 hours
 
