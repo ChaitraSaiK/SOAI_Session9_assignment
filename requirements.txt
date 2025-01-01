@@ -1,0 +1,5 @@
+numpy==1.24.4
+gradio==4.44.1
+torch==2.5.0
+torchvision==0.20.0
+Pillow==10.4.0
