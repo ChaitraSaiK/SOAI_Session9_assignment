@@ -15,8 +15,6 @@ The ImageNet-1K dataset is a widely used benchmark in computer vision and deep l
 
 # AWS setup
 
-We could run only 3 epochs as we were running out of time to exhaust our AWS credits. If more epochs are run, can get better accuracy.
-
 - Instance Type: AWS g6dn.8xlarge
 
 - Storage: 500 GB EBS volume for dataset storage
@@ -29,7 +27,9 @@ We could run only 3 epochs as we were running out of time to exhaust our AWS cre
 
     - Training time per epoch: ~2 hours
 
-- Results: Achieved 66.0% Top-5 accuracy after 3 epochs.
+- Results: Achieved 39.6% Top-1 accuracy and 66.0% Top-5 accuracy after 3 epochs.
+  
+  Note: We could run only 3 epochs as we were running out of time to exhaust our AWS credits. Can get better accuracy with more number of epochs.
 
 # Model Architecture:
 
