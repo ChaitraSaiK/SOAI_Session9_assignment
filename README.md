@@ -27,7 +27,7 @@ The ImageNet-1K dataset is a widely used benchmark in computer vision and deep l
 
     - Training time per epoch: ~2 hours
 
-- Results: Achieved 70% Top-5 accuracy after 3 epochs.
+- Results: Achieved 66.0% Top-5 accuracy after 3 epochs.
 
 # Model Architecture:
 
@@ -41,6 +41,13 @@ Key Features:
 - Output: Predicts class probabilities (default: 1000 classes).
 - Input Shape: 3-channel images (e.g., RGB) of size 224x224 or larger.
 - Output Shape: Probability scores for the number of target classes.
+
+# Model Training on EC2
+
+![Alt text](train2_1.jpg)
+
+# GPU Utilization on EC2
+![Alt text](train1_1.jpg)
 
 
 # Model Deployment:
