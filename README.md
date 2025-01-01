@@ -52,8 +52,9 @@ Key Features:
 
 # Model Deployment:
 
-HuggingFace ---TBD---
+HuggingFace 
+https://huggingface.co/spaces/hotshotdragon/TSAI-Imagenet-Resnet
 
 # Future Work:
-
+Improving Accuracy
 
