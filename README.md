@@ -57,6 +57,9 @@ Key Features:
 HuggingFace 
 https://huggingface.co/spaces/hotshotdragon/TSAI-Imagenet-Resnet
 
+![image](https://github.com/user-attachments/assets/e4a4dfb4-d8f9-47bf-ae58-9e4f8a1f8333)
+
+
 # Future Work:
-Improving Accuracy
+- Training the model for more number of epochs and improving the accuracy
 
